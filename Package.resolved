@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "crackstation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Venseven/CrackStation.git",
+      "state" : {
+        "revision" : "5eedcd4d1877a209e4940280f341818dda44ea79",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
